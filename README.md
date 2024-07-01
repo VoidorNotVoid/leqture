@@ -1,7 +1,5 @@
 # Lecture
 
-# Lecture
-
 Welcome to **Lecture**, a platform designed to enhance the learning experience by providing a seamless and personalized tutor for students by allowing them to send their guides, textbooks, notes, and other relevant content and generate context-based information from it such as quizzes, real-time doubt solving and further explanations.
 
 ## Features
